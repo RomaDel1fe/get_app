@@ -1,0 +1,38 @@
+@font-face {
+   font-family: 'Ubuntu';
+   src: url('../font/Ubuntu-Bold.eot');
+   src: url('../font/Ubuntu-Bold.eot?#iefix') format('embedded-opentype'),
+   url('../font/Ubuntu-Bold.woff2') format('woff2'),      
+   url('../font/Ubuntu-Bold.woff') format('woff'),
+   url('../font/Ubuntu-Bold.ttf') format('truetype'),
+   url('../font/Ubuntu-Bold.svg#Ubuntu-Bold') format('svg');
+   font-weight: bold;
+   font-style: normal;
+   font-display: swap;
+}
+
+@font-face {
+   font-family: 'Ubuntu';
+   src: url('../font/Ubuntu-Medium.eot');
+   src: url('../font/Ubuntu-Medium.eot?#iefix') format('embedded-opentype'),
+   url('../font/Ubuntu-Medium.woff2') format('woff2'),
+   url('../font/Ubuntu-Medium.woff') format('woff'),
+   url('../font/Ubuntu-Medium.ttf') format('truetype'),
+   url('../font/Ubuntu-Medium.svg#Ubuntu-Medium') format('svg');
+   font-weight: 500;
+   font-style: normal;
+   font-display: swap;
+}
+
+@font-face {
+   font-family: 'Ubuntu';
+   src: url('../font/Ubuntu-Regular.eot');
+   src: url('../font/Ubuntu-Regular.eot?#iefix') format('embedded-opentype'),
+   url('../font/Ubuntu-Regular.woff2') format('woff2'),
+   url('../font/Ubuntu-Regular.woff') format('woff'),
+   url('../font/Ubuntu-Regular.ttf') format('truetype'),
+   url('../font/Ubuntu-Regular.svg#Ubuntu-Regular') format('svg');
+   font-weight: normal;
+   font-style: normal;
+   font-display: swap;
+}
